@@ -5,9 +5,9 @@ Email:- chauhan.tarun897@gmail.com
 
 
 ## 📱 Screenshots
-|                                                     Login Auth Screen                                                      |                                                   Sign in                                                    |
+|  Login Auth Screen                                              |                                                   Sign in                                       |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://user-images.githubusercontent.com/30916033/214828530-dc490673-5598-46bf-967a-8e886b831856.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="  https://user-images.githubusercontent.com/30916033/214828738-41a5f24b-3b71-4761-ae51-29645fa51fc1.png ">|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://user-images.githubusercontent.com/30916033/214828530-dc490673-5598-46bf-967a-8e886b831856.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://user-images.githubusercontent.com/30916033/214830500-8e8137ea-4490-4287-8baa-77004ce3d9d8.png">|
 
 
 
