@@ -2,7 +2,7 @@
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:foodonwheel/controller/auth_controller.dart';
+import 'package:foodmenuorder/controller/auth_controller.dart';
 import 'package:get/get.dart';
 
 class AuthServices {

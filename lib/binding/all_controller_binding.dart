@@ -1,8 +1,8 @@
-import 'package:foodonwheel/controller/address_controller.dart';
-import 'package:foodonwheel/controller/auth_controller.dart';
-import 'package:foodonwheel/controller/cart_controller.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/controller/protein_controller.dart';
+import 'package:foodmenuorder/controller/address_controller.dart';
+import 'package:foodmenuorder/controller/auth_controller.dart';
+import 'package:foodmenuorder/controller/cart_controller.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/controller/protein_controller.dart';
 import 'package:get/get.dart';
 
 class AllControllerBinding implements Bindings {

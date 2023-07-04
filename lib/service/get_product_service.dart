@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:foodonwheel/models/product_model.dart';
+import 'package:foodmenuorder/models/product_model.dart';
 import 'package:http/http.dart' as http;
 
 class GetProductService {
@@ -8,7 +8,7 @@ class GetProductService {
     List<ProductModel> productModel = [];
     try {
       http.Response a = await http.get(Uri.parse(
-          "https://foodonwheel-a6a34-default-rtdb.firebaseio.com/.json"));
+          "https://foodmenuorder-a6a34-default-rtdb.firebaseio.com/.json"));
       var response = json.decode(a.body);
       List<dynamic> productList = response['Dish'];
       for (var product in productList) {

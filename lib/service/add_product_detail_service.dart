@@ -14,7 +14,7 @@ class AddProductDetailService {
     bool isProductSave = false;
     try {
       http.Response a = await http.get(Uri.parse(
-          "https://foodonwheel-a6a34-default-rtdb.firebaseio.com/.json"));
+          "https://foodmenuorder-a6a34-default-rtdb.firebaseio.com/.json"));
       var response = json.decode(a.body);
       List<dynamic> data = response == null ? [] : response['Dish'];
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 
 TextFormField newTextFormField({
   required String hintText,

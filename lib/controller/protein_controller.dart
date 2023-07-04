@@ -1,5 +1,5 @@
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/service/get_protein_service.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/service/get_protein_service.dart';
 import 'package:get/get.dart';
 
 class ProteinListingController extends GetxController {

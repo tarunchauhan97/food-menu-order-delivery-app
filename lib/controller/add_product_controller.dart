@@ -1,4 +1,4 @@
-import 'package:foodonwheel/service/add_product_detail_service.dart';
+import 'package:foodmenuorder/service/add_product_detail_service.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 
 class AddProductController extends GetxController {

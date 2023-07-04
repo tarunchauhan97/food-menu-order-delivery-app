@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 
 class RowText extends StatelessWidget {
   final String price, rowTitle;

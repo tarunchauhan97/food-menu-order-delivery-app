@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:foodonwheel/constants/api_path_constant.dart';
-import 'package:foodonwheel/models/product_model.dart';
+import 'package:foodmenuorder/constants/api_path_constant.dart';
+import 'package:foodmenuorder/models/product_model.dart';
 import 'package:http/http.dart' as http;
 
 class GetProteinFoods {
@@ -9,7 +9,7 @@ class GetProteinFoods {
     List<ProductModel> getProteinListings = [];
     try {
       http.Response a = await http.get(Uri.parse(
-          "https://foodonwheel-a6a34-default-rtdb.firebaseio.com/.json"));
+          "https://foodmenuorder-a6a34-default-rtdb.firebaseio.com/.json"));
       var response = json.decode(a.body);
       List<dynamic> productList = response[apiPath];
       print(apiPath);

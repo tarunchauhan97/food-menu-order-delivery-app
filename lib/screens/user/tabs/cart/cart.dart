@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/custom_header.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/screens/user/tabs/cart/order_summary.dart';
+import 'package:foodmenuorder/components/custom_header.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/cart/order_summary.dart';
 import 'package:get/get.dart';
 
 class Cart extends StatefulWidget {

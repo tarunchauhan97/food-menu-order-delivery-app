@@ -1,4 +1,4 @@
-package com.pointer.foodonwheel
+package com.example.foodmenuorder
 
 import io.flutter.embedding.android.FlutterActivity
 

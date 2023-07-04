@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:foodonwheel/components/food_card.dart';
-import 'package:foodonwheel/components/search_text_field.dart';
-import 'package:foodonwheel/config/location.dart';
-import 'package:foodonwheel/constants/image_constants.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/screens/user/tabs/home/details/details.dart';
-import 'package:foodonwheel/screens/user/tabs/home/details/food_list.dart';
+import 'package:foodmenuorder/components/food_card.dart';
+import 'package:foodmenuorder/components/search_text_field.dart';
+import 'package:foodmenuorder/config/location.dart';
+import 'package:foodmenuorder/constants/image_constants.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/details/details.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/details/food_list.dart';
 
 import 'package:get/get.dart';
 

@@ -1,5 +1,5 @@
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/service/get_product_service.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/service/get_product_service.dart';
 import 'package:get/get.dart';
 
 class ProductDetailsController extends GetxController {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/config/location.dart';
-import 'package:foodonwheel/models/product_model.dart';
+import 'package:foodmenuorder/config/location.dart';
+import 'package:foodmenuorder/models/product_model.dart';
 import 'package:get/get.dart';
 
 class FoodCard extends StatelessWidget {

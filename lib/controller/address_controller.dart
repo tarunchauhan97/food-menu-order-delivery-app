@@ -1,4 +1,4 @@
-import 'package:foodonwheel/models/address_mock_model.dart';
+import 'package:foodmenuorder/models/address_mock_model.dart';
 import 'package:get/get.dart';
 
 class AddressController extends GetxController {

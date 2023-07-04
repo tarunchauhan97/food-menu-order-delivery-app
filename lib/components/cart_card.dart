@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/theme/color_util.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/theme/color_util.dart';
 import 'package:get/get.dart';
 
 Widget cartCard({

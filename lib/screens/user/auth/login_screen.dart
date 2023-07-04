@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/buttons.dart';
+import 'package:foodmenuorder/components/buttons.dart';
 
-import 'package:foodonwheel/components/custom_text_field.dart';
-import 'package:foodonwheel/screens/user/auth/otp_screen.dart';
-import 'package:foodonwheel/service/auth_service.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/components/custom_text_field.dart';
+import 'package:foodmenuorder/screens/user/auth/otp_screen.dart';
+import 'package:foodmenuorder/service/auth_service.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 
 import 'package:get/get.dart';
 

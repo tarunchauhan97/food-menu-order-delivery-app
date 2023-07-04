@@ -1,10 +1,10 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/binding/all_controller_binding.dart';
-import 'package:foodonwheel/constants/app_constants.dart';
-import 'package:foodonwheel/screens/user/tabs/app.dart';
-import 'package:foodonwheel/screens/user/tabs/dashboard.dart';
+import 'package:foodmenuorder/binding/all_controller_binding.dart';
+import 'package:foodmenuorder/constants/app_constants.dart';
+import 'package:foodmenuorder/screens/user/tabs/app.dart';
+import 'package:foodmenuorder/screens/user/tabs/dashboard.dart';
 import 'package:get/get.dart';
 
 void main() async {

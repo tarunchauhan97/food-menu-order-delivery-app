@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
-import 'package:foodonwheel/theme/color_util.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/theme/color_util.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 
 TextButton customTextButton({
   required String textButtonTitle,

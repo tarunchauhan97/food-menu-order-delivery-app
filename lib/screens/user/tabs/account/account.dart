@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/food_card.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/screens/user/tabs/account/address_screen/view_address.dart';
-import 'package:foodonwheel/screens/user/tabs/account/widgets/account_setting_list.dart';
+import 'package:foodmenuorder/components/food_card.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/account/address_screen/view_address.dart';
+import 'package:foodmenuorder/screens/user/tabs/account/widgets/account_setting_list.dart';
 import 'package:get/get.dart';
 
 class Account extends StatefulWidget {

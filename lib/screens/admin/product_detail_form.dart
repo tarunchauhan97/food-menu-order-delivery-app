@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/buttons.dart';
-import 'package:foodonwheel/components/custom_text_field.dart';
-import 'package:foodonwheel/config/save_image_firebase.dart';
-import 'package:foodonwheel/controller/add_product_controller.dart';
+import 'package:foodmenuorder/components/buttons.dart';
+import 'package:foodmenuorder/components/custom_text_field.dart';
+import 'package:foodmenuorder/config/save_image_firebase.dart';
+import 'package:foodmenuorder/controller/add_product_controller.dart';
 import 'package:image_picker/image_picker.dart';
 
 class ProductDetailForm extends StatefulWidget {

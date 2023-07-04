@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/constants/api_path_constant.dart';
-import 'package:foodonwheel/constants/image_constants.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/controller/protein_controller.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/screens/user/tabs/home/details/details.dart';
+import 'package:foodmenuorder/constants/api_path_constant.dart';
+import 'package:foodmenuorder/constants/image_constants.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/controller/protein_controller.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/details/details.dart';
 import 'package:get/get.dart';
 
 class FoodList extends StatelessWidget {

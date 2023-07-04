@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/screens/user/tabs/home/details/widgets/body_detailes.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/details/widgets/body_detailes.dart';
 
 class Details extends StatelessWidget {
   final int? index;

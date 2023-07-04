@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/custom_text_button.dart';
-import 'package:foodonwheel/controller/address_controller.dart';
-import 'package:foodonwheel/models/address_mock_model.dart';
-import 'package:foodonwheel/screens/user/tabs/account/address_screen/add_edit_address.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/components/custom_text_button.dart';
+import 'package:foodmenuorder/controller/address_controller.dart';
+import 'package:foodmenuorder/models/address_mock_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/account/address_screen/add_edit_address.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 import 'package:get/get.dart';
 
 class CustomAddressCard extends StatelessWidget {

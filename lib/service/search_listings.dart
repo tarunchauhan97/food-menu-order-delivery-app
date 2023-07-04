@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:foodonwheel/constants/api_path_constant.dart';
+import 'package:foodmenuorder/constants/api_path_constant.dart';
 import 'package:http/http.dart' as http;
 
 class SearchFoodListings {
@@ -15,7 +15,7 @@ class SearchFoodListings {
     List<Map<String, String>> newListSearch = [];
     try {
       http.Response a =
-          await http.get(Uri.parse("https://foodonwheel-a6a34-default-rtdb.firebaseio.com/.json"));
+          await http.get(Uri.parse("https://foodmenuorder-a6a34-default-rtdb.firebaseio.com/.json"));
       var response = json.decode(a.body);
       for (String apiPath in listingPaths) {
         List<dynamic> foodsTypeList = response[apiPath];

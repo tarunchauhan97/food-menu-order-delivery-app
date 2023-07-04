@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/constants/image_constants.dart';
-import 'package:foodonwheel/screens/user/auth/login_screen.dart';
+import 'package:foodmenuorder/constants/image_constants.dart';
+import 'package:foodmenuorder/screens/user/auth/login_screen.dart';
 import 'package:get/get.dart';
 
 class SplashScreen extends StatefulWidget {

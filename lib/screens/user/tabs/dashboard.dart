@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/custom_header.dart';
-import 'package:foodonwheel/components/new_button_address.dart';
-import 'package:foodonwheel/constants/image_constants.dart';
-import 'package:foodonwheel/controller/get_product_details.dart';
-import 'package:foodonwheel/screens/user/tabs/app.dart';
-import 'package:foodonwheel/screens/user/tabs/home/details/food_list.dart';
-import 'package:foodonwheel/theme/color_util.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/components/custom_header.dart';
+import 'package:foodmenuorder/components/new_button_address.dart';
+import 'package:foodmenuorder/constants/image_constants.dart';
+import 'package:foodmenuorder/controller/get_product_details.dart';
+import 'package:foodmenuorder/screens/user/tabs/app.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/details/food_list.dart';
+import 'package:foodmenuorder/theme/color_util.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 import 'package:get/get.dart';
 
 class DashBoard extends StatelessWidget {

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
-import 'package:foodonwheel/constants/api_path_constant.dart';
-import 'package:foodonwheel/models/product_model.dart';
-import 'package:foodonwheel/screens/user/tabs/home/details/details.dart';
-import 'package:foodonwheel/service/search_listings.dart';
-import 'package:foodonwheel/theme/color_util.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/constants/api_path_constant.dart';
+import 'package:foodmenuorder/models/product_model.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/details/details.dart';
+import 'package:foodmenuorder/service/search_listings.dart';
+import 'package:foodmenuorder/theme/color_util.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 import 'package:get/get.dart';
 
 class SearchTextField extends StatefulWidget {

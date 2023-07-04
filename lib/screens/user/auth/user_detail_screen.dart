@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foodonwheel/components/buttons.dart';
-import 'package:foodonwheel/components/custom_text_field.dart';
-import 'package:foodonwheel/screens/user/tabs/app.dart';
-import 'package:foodonwheel/theme/color_util.dart';
-import 'package:foodonwheel/theme/text_style_util.dart';
+import 'package:foodmenuorder/components/buttons.dart';
+import 'package:foodmenuorder/components/custom_text_field.dart';
+import 'package:foodmenuorder/screens/user/tabs/app.dart';
+import 'package:foodmenuorder/theme/color_util.dart';
+import 'package:foodmenuorder/theme/text_style_util.dart';
 import 'package:get/get.dart';
 
 class UserScreenDetail extends StatefulWidget {

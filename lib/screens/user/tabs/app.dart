@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foodonwheel/screens/user/tabs/account/account.dart';
-import 'package:foodonwheel/screens/user/tabs/cart/cart.dart';
-import 'package:foodonwheel/screens/user/tabs/home/home.dart';
-import 'package:foodonwheel/screens/user/tabs/near_by/near_by.dart';
+import 'package:foodmenuorder/screens/user/tabs/account/account.dart';
+import 'package:foodmenuorder/screens/user/tabs/cart/cart.dart';
+import 'package:foodmenuorder/screens/user/tabs/home/home.dart';
+import 'package:foodmenuorder/screens/user/tabs/near_by/near_by.dart';
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
